@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animal_array">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Horse</item>
+    </string-array>
+
+    <string-array name="animal_secondary_array">
+        <item>Cat,Abyssinian,https://en.wikipedia.org/wiki/Abyssinian_cat</item>
+        <item>Cat,Aegean,https://en.wikipedia.org/wiki/Aegean_cat</item>
+        <item>Cat,Bengal,https://en.wikipedia.org/wiki/Bengal_cat</item>
+        <item>Dog,Billy,https://en.wikipedia.org/wiki/Billy_(dog)</item>
+        <item>Dog,Blue Lacy,https://en.wikipedia.org/wiki/Blue_Lacy</item>
+        <item>Dog,Broholmer,https://en.wikipedia.org/wiki/Broholmer</item>
+        <item>Horse,Belgian,https://en.wikipedia.org/wiki/Belgian_horse</item>
+        <item>Horse,Thoroughbred,https://en.wikipedia.org/wiki/Thoroughbred</item>
+        <item>Horse,Arabian,https://en.wikipedia.org/wiki/Arabian_horse</item>
+    </string-array>
+
+</resources>
